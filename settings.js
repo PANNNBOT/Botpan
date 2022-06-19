@@ -43,11 +43,11 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
+    admin: 'Lu bukan admin ngentot !',
+    botAdmin: 'Jadiin gw admin dulu goblok !',
+    owner: 'Cuma owner yang bisa deck !',
+    group: 'Cuma bisa di grup deck !',
+    private: 'Cuma bisa di pm deck !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
     wait: '⏳ Sedang Di Proses',
